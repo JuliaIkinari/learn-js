@@ -1,0 +1,21 @@
+body {
+  background-color: #3e3d3c;
+  color: azure;
+}
+a {
+  color: azure;
+}
+img {
+  display: block;
+  margin-inline: auto;
+  border: 15px #000000 dashed;
+  transition: 200ms;
+}
+img:hover {
+  border-color: brown;
+  scale: 75%;
+  rotate: 180deg;
+}
+
+
+
